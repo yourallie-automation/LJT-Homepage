@@ -13,8 +13,8 @@ title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &amp;name "Junteng Liu"
 description              : &amp;description "Junteng Liu's academic portfolio"
-url                      : https://yourallie-automation.github.io # The base hostname &amp; protocol for your site
-baseurl                  : "/LJT-Homepage" # the subpath of your site, e.g. "/blog"
+url                      : https://yourallie-automation.github.io
+baseurl                  : "/LJT-Homepage"
 repository               : "yourallie-automation/LJT-Homepage"
 
 # Site Author
